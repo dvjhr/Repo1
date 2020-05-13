@@ -1,0 +1,10 @@
+Tata cara instalasi (copas) eReview:
+1. Extract ereview.rar, nanti hasil extractnya adalah seonggok folder ereview.
+2. Copas foldernya ke wamp64/xampp, nanti lokasi akhirnya ../wamp64/ereview. Klo udah ada folder lain yang namanya sama, rename/delete aja oi.
+3. Masuk folder ereviewnya, buka folder www, ntar di dalemnya ada folder namanya ereview juga, nggak usah bingung.
+4. copas folder ereview yang di dalem www tadi ke ../wamp64/www. Klo udah ada folder lain yang namanya sama, rename/delete aja oi.
+5. Cek dulu di browser, klo udah berhasil, lanjut import database.
+6. Buka phpmyadmin, buat database baru. Kasih nama 'ereview', klo udah ada database yang namanya sama, rename/delete aja oi.
+7. Buka databasenya, pilih import (ada di bagian atas).
+8. Pilih file 'ereview.sql' dari folder ereview asli yang di wamp64. Tinggal import aja.
+9. Dah siap demo yeee
